@@ -1,2 +1,2 @@
-# Resume-Genarator
-It can generate your resume with details you filled it and you can print your resume also.. 
+# My-resume
+my resume made by me with bootstrap and image used by cdn
